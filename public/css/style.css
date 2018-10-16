@@ -1,0 +1,35 @@
+
+/**
+ * Override CSS's
+ */
+.bg-light {
+    background-color: #02aadd!important;
+}
+
+
+.margin-top-20{
+    margin-top: 20px;
+}
+.feature-img{
+    max-height: 200px
+}
+.card{
+    margin-bottom: 35px;
+}
+
+.footer-bottom{
+    padding: 20px;
+    margin-top: 20px;
+    background: #02aadd;
+}
+.product-item{
+    background: #dcf4fc;
+}
+.child-rows{
+    padding-left: 20px;
+    border-left: 1px solid #DFDFDF;
+    background: #fff;
+}
+.child-rows a.list-group-item{
+    border-left: 0px!important;
+}
